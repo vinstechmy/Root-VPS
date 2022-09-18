@@ -21,8 +21,8 @@ echo
 echo "Simple Method To Change Root Password"
 echo "======================================"
 user=root
-echo "Please Insert Your Password : " 
-read -e pw
+read -p "Please Insert Your Password : " pw
+#read -e pw
 pwe=$(mkpasswd $pw)
 
 clear
