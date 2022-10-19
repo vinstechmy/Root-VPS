@@ -1,4 +1,4 @@
-# Root-VPS Password Changer For Debian Only
+# Root-VPS Password Changer For VPS
 
 1.Login into your vps <br>
 2.Type sudo -i & paste below command <br>
